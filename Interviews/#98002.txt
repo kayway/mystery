@@ -1,0 +1,16 @@
+PROFILE: #98002
+NAME: Dafydd Davies
+AGE: 19
+OCCUPATION: Repair Man
+HOBBIES: Snooker
+INTERVIEW:
+Officer: Why were you in the mansion at the time of the murder
+Dafydd: I wars reparin th' boiler in ther basement
+Officer: Do you know who it was that called you?
+Dafydd: Not sure, but I know it were a male voice
+Officer: I see, were you near the crimescene at the time it occured
+Dafydd: Well i was in th' basement at the time and th' ting's so darn loud I didnt hear a thing
+Officer: I see, thats all for now thanks for your time.
+OBSERVATION:
+I havent heard the boiler in action yet but i doubt it being so loud he wouldnt hear a shreak a room away.
+Howevor i suppose it is possibly if the boiler wasnt functioning properly.

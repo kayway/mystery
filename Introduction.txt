@@ -1,0 +1,29 @@
+*******************************************MYSTERY MANSION*******************************************
+************************------------------------------------------------------***********************
+*******************-----------------------------------------------------------------*****************
+************------------------------------------------------------------------------------***********
+***********|	 _______	 _______		 _______	 _______	  |**********
+***********|	|   |   |	|   |	|		|   |	|	|   |   |	  |**********
+***********|	|   |   |	|   |   |		|   |	|	|   |   |	  |**********
+***********|	|___|___|	|___|___|		|___|___|	|___|___|         |**********
+***********|				      _______					  |**********
+***********|			             |	     |				          |**********
+***********|				     |     o |				          |**********
+¬¬¬¬¬¬¬¬¬¬¬|_________________________________|       |____________________________________|¬¬¬¬¬¬¬¬¬¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬(       )¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬(       )¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬(       )¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+
+
+Your a chief inspector for the scottish yard and have been called by a wealthy family, the Roses.
+After you've went through the crimescene you learnt that the suspect is in this very building.
+After you sealed the building, you gathered your co-workers organized all the work into 3 catagories:
+--Evidence
+--Crimescene
+--Suspects
+The order for your co workers was to just collect and organize the data.
+It is your job to go through this data and figure out the suspect.
+There are hints if you get stuck or if you are lazy you can just open the solution script
+Once you think you've figured out the suspect you run the check script
+Howevor if you are wrong twice than its considered a loss and is re-randomized.
+Good Luck !!
