@@ -1,0 +1,78 @@
+
+We found a shredded letter in the fathers office. All the pieces are howevor they need organizing. 
+Each number is a collumn of the letter. 
+Once you think you have solved the puzzle run the check-letter.sh script and put the numbers in.
+e.g. bash check-letter.sh xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx-xx
+feel free to either use some paper or an editor to put notes in the space provided
+Good luck! 
+
+01		02		03		04		05		06		07		08		09		10
+
+***********************************************************************************************************************************************************
+
+Dear		_____		_____	 	_____	   	sir:		_____		_____		_____		_____		_____	   
+
+I'm		you		letter	 	you	   	writing		this		tell		to		I'm		that	   
+
+I've		a		woman	 	for	   	been		good		you		to		years		seven	   
+
+These		two		have	 	_____	   	last		weeks		hell.		been		_____		_____	   
+
+Your		called		tell	 	you	   	boss		to		that		me		quit		had	   
+Last		you		home	 	didn't	   	week,		came		you		and		that		notice	   
+
+You		home		ate	 	minutes,   	came		and		two		in		went		and	   
+
+Either		cheating	you	 	me	  	you're		or		love		don't		whatever	anymore,   
+
+Have		great		_____		_____	 	a		life.		_____		_____		_____		_____	   
+
+***********************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+Note area:
+
+
+
+
+
+
+
+
+
+
+
+
+11		12		13		14		15		16		17		18		19
+
+*************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+  
+_____		_____		_____		_____		_____		_____		_____		_____		_____
+leaving		good.		you		_____		for		_____		_____		_____		_____
+and		nothing		I		it.		have		for		to		show		_____		
+_____		_____		_____		_____		_____		_____		_____		_____		_____
+your		and		job		last		today		the		that		was		straw.
+I		my		had		done.		gotten		nails		hair		and		_____
+straight	after		to		_____		sleep		game.		watching	the		_____
+the		I'm		case		_____		is,		_____		gone.		_____		_____
+_____		_____		_____		_____		_____		_____		_____		_____		_____
+**************************************************************************************************************************************
