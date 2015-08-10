@@ -1,7 +1,36 @@
-After we searched the mansion the only blood stained weaponswere around the body the list ifs found here.
-weapon		Fingerprints
-*****************************
-knife		Liam
-Shears		Lewis
-Steel Shard	Dafydd
-scissors	Louis
+The police force gathered oll items thact could cause any lethal damage to the victem and were also nearby and had fingerprints on them.
+They are not organised to the type of wound which is shown at the crimescene.
+weapon		Fingerprints	Type of Wound
+*****************************************************
+axe		Lewis		coarsecut	
+bat		Louis		impact
+blanket		Louis		suffocation
+bottle		Liam		impact
+brick		Lewis		impact
+crow bar	Dafydd		impact
+drill		Dafydd		impalement
+glass		Lewis		cut-thin
+glass		Louis		cut-thin
+glass		Liam		cut-thin
+hack-saw	Dafydd		coarse-cut
+hammer		Dafydd		impact
+hoe		Lewis		coarse-cut/impalement
+knife		Liam		fine-cut/impolement
+pan		Liam		impact
+pipe		Dafydd		concussion
+pitchfork	Lewis		impalement
+plate		Louis		impact
+plate		Liam		impact
+plate		Lewis		impact
+rope		Dafydd		suffocation
+saw		Lewis		coarse-cut
+scissors	Louis		fine-cut/impalement
+screwdriver	Dafydd		impalement
+Shears		Lewis		coarse-cut/impalement
+spanner		Dafydd		impact
+steel-shard	Dafydd		impalement
+vase		Louis		impact
+Wrench		Dafydd		impact
+
+
+
